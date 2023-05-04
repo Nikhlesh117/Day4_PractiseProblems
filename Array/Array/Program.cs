@@ -1,4 +1,6 @@
-﻿namespace Array
+﻿using Arrays;
+
+namespace Array
 {
     public class Program
     {
@@ -13,8 +15,11 @@
             //PatternTriangle triangle = new PatternTriangle();
             //triangle.Pattern_Triangle();
 
-            PatternSquare square = new PatternSquare();
-            square.Pattern_Square();
+            //PatternSquare square = new PatternSquare();
+            //square.Pattern_Square();
+
+            ReverseString reverse = new ReverseString();
+            reverse.StringRev();
         }
     }
 }
