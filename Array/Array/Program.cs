@@ -10,8 +10,11 @@
             //UniqueElements unique = new UniqueElements();
             //unique.Unique();
 
-            PatternTriangle triangle = new PatternTriangle();
-            triangle.Pattern_Triangle();
+            //PatternTriangle triangle = new PatternTriangle();
+            //triangle.Pattern_Triangle();
+
+            PatternSquare square = new PatternSquare();
+            square.Pattern_Square();
         }
     }
 }
