@@ -18,8 +18,11 @@ namespace Array
             //PatternSquare square = new PatternSquare();
             //square.Pattern_Square();
 
-            ReverseString reverse = new ReverseString();
-            reverse.StringRev();
+            //ReverseString reverse = new ReverseString();
+            //reverse.StringRev();
+
+            SumDigits digits = new SumDigits();
+            digits.Sum();
         }
     }
 }
