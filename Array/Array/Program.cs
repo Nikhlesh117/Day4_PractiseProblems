@@ -24,8 +24,11 @@ namespace Array
             //SumDigits digits = new SumDigits();
             //digits.Sum();
 
-            FrequencyElement element = new FrequencyElement();
-            element.Frequency_Element();
+            //FrequencyElement element = new FrequencyElement();
+            //element.Frequency_Element();
+
+            MinMax minMax = new MinMax();
+            minMax.Min_Max();
         }
     }
 }
