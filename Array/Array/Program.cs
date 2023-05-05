@@ -21,8 +21,11 @@ namespace Array
             //ReverseString reverse = new ReverseString();
             //reverse.StringRev();
 
-            SumDigits digits = new SumDigits();
-            digits.Sum();
+            //SumDigits digits = new SumDigits();
+            //digits.Sum();
+
+            FrequencyElement element = new FrequencyElement();
+            element.Frequency_Element();
         }
     }
 }
