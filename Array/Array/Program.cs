@@ -27,8 +27,11 @@ namespace Array
             //FrequencyElement element = new FrequencyElement();
             //element.Frequency_Element();
 
-            MinMax minMax = new MinMax();
-            minMax.Min_Max();
+            //MinMax minMax = new MinMax();
+            //minMax.Min_Max();
+
+            Array_List list = new Array_List();
+            list.List();
         }
     }
 }
