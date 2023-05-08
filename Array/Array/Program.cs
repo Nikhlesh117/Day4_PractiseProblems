@@ -30,8 +30,11 @@ namespace Array
             //MinMax minMax = new MinMax();
             //minMax.Min_Max();
 
-            Array_List list = new Array_List();
-            list.List();
+            //Array_List list = new Array_List();
+            //list.List();
+
+            Dictionarys dictionarys = new Dictionarys();
+            dictionarys.Dict();
         }
     }
 }
